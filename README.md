@@ -1,9 +1,20 @@
 # Ritika Dhingra — Portfolio
 
-Static HTML/CSS/JS portfolio site. No build step.
+Next.js (App Router, React, TypeScript) site, deployed on Vercel (project `ritika-dhingra-portfolio`).
+Every page is pre-rendered as static HTML at build time.
 
-- `src/` — the site (pages, `assets/css/style.css`, `assets/js/main.js`)
-- Deployed on Vercel (project `ritika-dhingra-portfolio`).
+## Where things live
+
+| Path | What it is |
+|---|---|
+| `app/page.tsx` | Home page |
+| `app/<page>/page.tsx` | Every other page (e.g. `app/artwork/page.tsx` → `/artwork`), with its title and description at the top |
+| `app/layout.tsx` | Shared shell: `<head>`, header, mobile menu, footer, back-to-top, site script |
+| `components/` | Header, Footer, MobileMenu, Progress, ToTop, FallbackImg |
+| `public/assets/css/style.css` | All styling |
+| `public/assets/js/main.js` | Interactions (theme toggle, animations, carousel, filters, WhatsApp links). The WhatsApp number is `WA_NUMBER` here — still a placeholder. |
+| `public/assets/img/` | Site images |
+| `redirects.json` | Old `.html` addresses permanently redirect to the clean URLs |
 
 ## How changes go live
 
@@ -21,9 +32,7 @@ Don't edit `main` directly — anything pushed there goes live straight away.
 ## Run locally
 
 ```bash
-cd src && python3 -m http.server 8000
-# open http://localhost:8000
+npm install
+npm run dev      # http://localhost:3000
+npm run build    # production build
 ```
-
-## Note
-The WhatsApp number in `src/assets/js/main.js` (`WA_NUMBER`) is still a placeholder.

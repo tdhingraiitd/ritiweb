@@ -1,0 +1,127 @@
+[
+  {
+    "source": "/artwork-beige-coast.html",
+    "destination": "/artwork-beige-coast",
+    "permanent": true
+  },
+  {
+    "source": "/artwork-ember.html",
+    "destination": "/artwork-ember",
+    "permanent": true
+  },
+  {
+    "source": "/artwork-fragments.html",
+    "destination": "/artwork-fragments",
+    "permanent": true
+  },
+  {
+    "source": "/artwork-midnight-field.html",
+    "destination": "/artwork-midnight-field",
+    "permanent": true
+  },
+  {
+    "source": "/artwork-olive-valley.html",
+    "destination": "/artwork-olive-valley",
+    "permanent": true
+  },
+  {
+    "source": "/artwork-quiet-tide.html",
+    "destination": "/artwork-quiet-tide",
+    "permanent": true
+  },
+  {
+    "source": "/artwork-sienna-hills.html",
+    "destination": "/artwork-sienna-hills",
+    "permanent": true
+  },
+  {
+    "source": "/artwork-soft-static.html",
+    "destination": "/artwork-soft-static",
+    "permanent": true
+  },
+  {
+    "source": "/artwork-spiral-bloom.html",
+    "destination": "/artwork-spiral-bloom",
+    "permanent": true
+  },
+  {
+    "source": "/artwork-terracotta-dawn.html",
+    "destination": "/artwork-terracotta-dawn",
+    "permanent": true
+  },
+  {
+    "source": "/artwork-undergrowth.html",
+    "destination": "/artwork-undergrowth",
+    "permanent": true
+  },
+  {
+    "source": "/artwork-warm-horizon.html",
+    "destination": "/artwork-warm-horizon",
+    "permanent": true
+  },
+  {
+    "source": "/artwork.html",
+    "destination": "/artwork",
+    "permanent": true
+  },
+  {
+    "source": "/consulting.html",
+    "destination": "/consulting",
+    "permanent": true
+  },
+  {
+    "source": "/contact.html",
+    "destination": "/contact",
+    "permanent": true
+  },
+  {
+    "source": "/index.html",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/insights.html",
+    "destination": "/insights",
+    "permanent": true
+  },
+  {
+    "source": "/product-design.html",
+    "destination": "/product-design",
+    "permanent": true
+  },
+  {
+    "source": "/project-atlas.html",
+    "destination": "/project-atlas",
+    "permanent": true
+  },
+  {
+    "source": "/project-bloom.html",
+    "destination": "/project-bloom",
+    "permanent": true
+  },
+  {
+    "source": "/project-civic.html",
+    "destination": "/project-civic",
+    "permanent": true
+  },
+  {
+    "source": "/project-ledger.html",
+    "destination": "/project-ledger",
+    "permanent": true
+  },
+  {
+    "source": "/project-meadow.html",
+    "destination": "/project-meadow",
+    "permanent": true
+  },
+  {
+    "source": "/project-nova.html",
+    "destination": "/project-nova",
+    "permanent": true
+  },
+  {
+    "source": "/teaching.html",
+    "destination": "/teaching",
+    "permanent": true
+  }
+]
